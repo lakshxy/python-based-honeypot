@@ -1,0 +1,74 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-213-498
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 01:09:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 01:09:54] "GET /socket.io/?EIO=4&transport=polling&t=PPPtK3H HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 01:09:54] "POST /socket.io/?EIO=4&transport=polling&t=PPPtK3S&sid=QzEJOqvZ4AdecAUuAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 01:09:54] "GET /socket.io/?EIO=4&transport=polling&t=PPPtK3U&sid=QzEJOqvZ4AdecAUuAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 01:12:12] "GET /socket.io/?EIO=4&transport=websocket&sid=QzEJOqvZ4AdecAUuAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 01:12:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 01:12:13] "GET /socket.io/?EIO=4&transport=polling&t=PPPtrrp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 01:12:13] "POST /socket.io/?EIO=4&transport=polling&t=PPPtruG&sid=5-0tLZHoRhJZ0r0gAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 01:12:13] "GET /socket.io/?EIO=4&transport=polling&t=PPPtruI&sid=5-0tLZHoRhJZ0r0gAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 01:12:13] "GET /socket.io/?EIO=4&transport=polling&t=PPPtrzN&sid=5-0tLZHoRhJZ0r0gAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 01:12:13] "GET /socket.io/?EIO=4&transport=polling&t=PPPtrzX&sid=5-0tLZHoRhJZ0r0gAAAC HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\laksh\\HoneypotProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+2025-04-22 01:16:36 - WARNING -  * Debugger is active!
+2025-04-22 01:16:36 - INFO -  * Debugger PIN: 145-213-498
+2025-04-22 01:16:37 - INFO - 127.0.0.1 - - [22/Apr/2025 01:16:37] "GET /socket.io/?EIO=4&transport=polling&t=PPPusM- HTTP/1.1" 200 -
+2025-04-22 01:16:37 - INFO - 127.0.0.1 - - [22/Apr/2025 01:16:37] "POST /socket.io/?EIO=4&transport=polling&t=PPPusRy&sid=7GdpPQ6vR5byI9_2AAAA HTTP/1.1" 200 -
+2025-04-22 01:16:37 - INFO - 127.0.0.1 - - [22/Apr/2025 01:16:37] "GET /socket.io/?EIO=4&transport=polling&t=PPPusRz&sid=7GdpPQ6vR5byI9_2AAAA HTTP/1.1" 200 -
+2025-04-22 01:16:37 - INFO - 127.0.0.1 - - [22/Apr/2025 01:16:37] "GET /socket.io/?EIO=4&transport=polling&t=PPPusWw&sid=7GdpPQ6vR5byI9_2AAAA HTTP/1.1" 200 -
+2025-04-22 01:17:37 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-22 01:17:37 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-22 01:17:37 - INFO -  * Restarting with stat
+2025-04-22 01:17:37 - WARNING -  * Debugger is active!
+2025-04-22 01:17:37 - INFO -  * Debugger PIN: 145-213-498
+2025-04-22 01:17:38 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:38] "GET /socket.io/?EIO=4&transport=polling&t=PPPv5G4 HTTP/1.1" 200 -
+2025-04-22 01:17:38 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:38] "POST /socket.io/?EIO=4&transport=polling&t=PPPv5L0&sid=lLiphUeK8HiMhg6pAAAA HTTP/1.1" 200 -
+2025-04-22 01:17:38 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:38] "GET /socket.io/?EIO=4&transport=polling&t=PPPv5L1&sid=lLiphUeK8HiMhg6pAAAA HTTP/1.1" 200 -
+2025-04-22 01:17:38 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:38] "GET /socket.io/?EIO=4&transport=polling&t=PPPv5Pu&sid=lLiphUeK8HiMhg6pAAAA HTTP/1.1" 200 -
+2025-04-22 01:17:39 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:39] "GET /socket.io/?EIO=4&transport=websocket&sid=lLiphUeK8HiMhg6pAAAA HTTP/1.1" 200 -
+2025-04-22 01:17:40 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:40] "GET / HTTP/1.1" 200 -
+2025-04-22 01:17:40 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:40] "GET /socket.io/?EIO=4&transport=polling&t=PPPv5ti HTTP/1.1" 200 -
+2025-04-22 01:17:40 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:40] "POST /socket.io/?EIO=4&transport=polling&t=PPPv5to&sid=_3RocGyMf0fVb-4JAAAC HTTP/1.1" 200 -
+2025-04-22 01:17:40 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:40] "GET /socket.io/?EIO=4&transport=polling&t=PPPv5tp&sid=_3RocGyMf0fVb-4JAAAC HTTP/1.1" 200 -
+2025-04-22 01:17:54 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:54] "GET /socket.io/?EIO=4&transport=websocket&sid=_3RocGyMf0fVb-4JAAAC HTTP/1.1" 200 -
+2025-04-22 01:17:54 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:54] "GET / HTTP/1.1" 200 -
+2025-04-22 01:17:54 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:54] "GET /socket.io/?EIO=4&transport=polling&t=PPPv99X HTTP/1.1" 200 -
+2025-04-22 01:17:54 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:54] "POST /socket.io/?EIO=4&transport=polling&t=PPPv9EW&sid=hmUUrEACJfiXnWsnAAAE HTTP/1.1" 200 -
+2025-04-22 01:17:54 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:54] "GET /socket.io/?EIO=4&transport=polling&t=PPPv9EW.0&sid=hmUUrEACJfiXnWsnAAAE HTTP/1.1" 200 -
+2025-04-22 01:17:56 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:56] "GET /socket.io/?EIO=4&transport=websocket&sid=hmUUrEACJfiXnWsnAAAE HTTP/1.1" 200 -
+2025-04-22 01:17:56 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:56] "GET / HTTP/1.1" 200 -
+2025-04-22 01:17:56 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:56] "GET /socket.io/?EIO=4&transport=polling&t=PPPv9jf HTTP/1.1" 200 -
+2025-04-22 01:17:56 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:56] "POST /socket.io/?EIO=4&transport=polling&t=PPPv9oa&sid=JozBd3VD1dskt_IJAAAG HTTP/1.1" 200 -
+2025-04-22 01:17:57 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:57] "GET /socket.io/?EIO=4&transport=polling&t=PPPv9ob&sid=JozBd3VD1dskt_IJAAAG HTTP/1.1" 200 -
+2025-04-22 01:17:57 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:57] "GET /socket.io/?EIO=4&transport=polling&t=PPPv9tQ&sid=JozBd3VD1dskt_IJAAAG HTTP/1.1" 200 -
+2025-04-22 01:17:57 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:57] "GET /socket.io/?EIO=4&transport=websocket&sid=JozBd3VD1dskt_IJAAAG HTTP/1.1" 200 -
+2025-04-22 01:17:57 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:57] "GET / HTTP/1.1" 200 -
+2025-04-22 01:17:57 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:57] "GET /socket.io/?EIO=4&transport=polling&t=PPPvA2J HTTP/1.1" 200 -
+2025-04-22 01:17:58 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:58] "POST /socket.io/?EIO=4&transport=polling&t=PPPvA5t&sid=2X_Xhy_l8ne_hksCAAAI HTTP/1.1" 200 -
+2025-04-22 01:17:58 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:58] "GET / HTTP/1.1" 200 -
+2025-04-22 01:17:58 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:58] "GET /socket.io/?EIO=4&transport=polling&t=PPPvA5u&sid=2X_Xhy_l8ne_hksCAAAI HTTP/1.1" 200 -
+2025-04-22 01:17:58 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:58] "GET /socket.io/?EIO=4&transport=websocket&sid=2X_Xhy_l8ne_hksCAAAI HTTP/1.1" 200 -
+2025-04-22 01:17:58 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:58] "GET /socket.io/?EIO=4&transport=polling&t=PPPvABS HTTP/1.1" 200 -
+2025-04-22 01:17:58 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:58] "POST /socket.io/?EIO=4&transport=polling&t=PPPvAF8&sid=a_vIPaALjPoFAFtSAAAK HTTP/1.1" 200 -
+2025-04-22 01:17:58 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:58] "GET /socket.io/?EIO=4&transport=polling&t=PPPvAF9&sid=a_vIPaALjPoFAFtSAAAK HTTP/1.1" 200 -
+2025-04-22 01:17:58 - INFO - 127.0.0.1 - - [22/Apr/2025 01:17:58] "GET /socket.io/?EIO=4&transport=polling&t=PPPvAGJ&sid=a_vIPaALjPoFAFtSAAAK HTTP/1.1" 200 -
+2025-04-22 01:19:04 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:04] "GET /socket.io/?EIO=4&transport=websocket&sid=a_vIPaALjPoFAFtSAAAK HTTP/1.1" 200 -
+2025-04-22 01:19:04 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:04] "GET / HTTP/1.1" 200 -
+2025-04-22 01:19:05 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:05] "GET /socket.io/?EIO=4&transport=polling&t=PPPvQT0 HTTP/1.1" 200 -
+2025-04-22 01:19:05 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:05] "POST /socket.io/?EIO=4&transport=polling&t=PPPvQWf&sid=9caHBGiAGST1Z3BgAAAM HTTP/1.1" 200 -
+2025-04-22 01:19:05 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:05] "GET /socket.io/?EIO=4&transport=polling&t=PPPvQWh&sid=9caHBGiAGST1Z3BgAAAM HTTP/1.1" 200 -
+2025-04-22 01:19:05 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:05] "GET /socket.io/?EIO=4&transport=polling&t=PPPvQbr&sid=9caHBGiAGST1Z3BgAAAM HTTP/1.1" 200 -
+2025-04-22 01:19:05 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:05] "GET /socket.io/?EIO=4&transport=websocket&sid=9caHBGiAGST1Z3BgAAAM HTTP/1.1" 200 -
+2025-04-22 01:19:05 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:05] "GET / HTTP/1.1" 200 -
+2025-04-22 01:19:06 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:06] "GET /socket.io/?EIO=4&transport=polling&t=PPPvQhg HTTP/1.1" 200 -
+2025-04-22 01:19:06 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:06] "POST /socket.io/?EIO=4&transport=polling&t=PPPvQlG&sid=rD1LB1h0gfPN4bovAAAO HTTP/1.1" 200 -
+2025-04-22 01:19:06 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:06] "GET /socket.io/?EIO=4&transport=polling&t=PPPvQlI&sid=rD1LB1h0gfPN4bovAAAO HTTP/1.1" 200 -
+2025-04-22 01:19:06 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:06] "GET /socket.io/?EIO=4&transport=polling&t=PPPvQqE&sid=rD1LB1h0gfPN4bovAAAO HTTP/1.1" 200 -
